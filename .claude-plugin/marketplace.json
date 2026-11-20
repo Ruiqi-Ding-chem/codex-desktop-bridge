@@ -1,0 +1,15 @@
+{
+  "name": "codex-desktop-bridge",
+  "owner": {
+    "name": "Ruiqi Ding",
+    "url": "https://github.com/Ruiqi-Ding-chem"
+  },
+  "plugins": [
+    {
+      "name": "codex-desktop-bridge",
+      "source": "./",
+      "description": "Let Claude Code hand tasks to the OpenAI Codex desktop app on Windows and bring the answers back.",
+      "version": "0.1.0"
+    }
+  ]
+}

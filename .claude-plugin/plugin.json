@@ -1,0 +1,13 @@
+{
+  "name": "codex-desktop-bridge",
+  "description": "Let Claude Code hand tasks to the OpenAI Codex desktop app on Windows and bring the answers back: background runs with a chosen model and effort, or a prompt prefilled in the app for you to check and send.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ruiqi Ding",
+    "url": "https://github.com/Ruiqi-Ding-chem"
+  },
+  "homepage": "https://github.com/Ruiqi-Ding-chem/codex-desktop-bridge",
+  "repository": "https://github.com/Ruiqi-Ding-chem/codex-desktop-bridge",
+  "license": "MIT",
+  "keywords": ["codex", "openai", "chatgpt", "windows", "multi-agent", "second-opinion"]
+}
